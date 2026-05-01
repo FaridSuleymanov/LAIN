@@ -4,8 +4,6 @@
 
 It inspects selected systems or communication channels, identifies visible cryptographic primitives where possible, classifies their quantum-readiness risk, and records the assessment process in a tamper-evident local audit log.
 
-This repository was previously developed under the working name **LAIN**. The new public framing is deliberately more conservative: readiness assessment, defensive review, auditability, and migration planning.
-
 > Status: alpha / research prototype.  
 > Current focus: TLS endpoint inspection, primitive classification, authorization scope control, structured findings, and local audit integrity.
 
