@@ -2,11 +2,6 @@
 
 **Layered Attack Intelligence for Next-gen cryptography.**
 
-
-**Status:** 0.1 — PROTOCOL module first cut. PSYCHE (quantum attack
-simulation), DEUS (resource estimation), ACCELA (PQC migration validation)
-to follow.
-
 ---
 
 ## What ships today
