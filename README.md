@@ -2,13 +2,6 @@
 
 **Layered Attack Intelligence for Next-gen cryptography.**
 
-A quantum red team framework. Point it at a protocol endpoint — get a map of
-every primitive that falls the moment a cryptographically relevant quantum
-computer exists, plus a bill-of-materials for what hardware that attack
-actually requires.
-
-> *"If you're not remembered, then you never existed."*
-> — Serial Experiments Lain
 
 **Status:** 0.1 — PROTOCOL module first cut. PSYCHE (quantum attack
 simulation), DEUS (resource estimation), ACCELA (PQC migration validation)
@@ -103,10 +96,3 @@ dashboards, SIEM, or your own scoring.
 AGPL-3.0-or-later. If you run a modified LAIN as a network-accessible
 service, you must make the modified source available to your users. No
 exceptions.
-
-## Name
-
-*Serial Experiments Lain* — the Wired underneath the visible protocol.
-Lain saw the hidden layer everyone else took for granted. LAIN reveals
-the quantum vulnerability layer beneath protocols everyone assumes are
-secure.
